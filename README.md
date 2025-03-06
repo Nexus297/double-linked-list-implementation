@@ -1,6 +1,8 @@
 # double-linked-list-implementation
 
 ## Overview
+This is my attempt at solving: Level 0: Basic Data Structure implementation mentioned in the task.
+
 This repository contains an implementation of a Doubly Linked List in C, supporting the following operations:
 
 - Node Creation (new_Node)  
